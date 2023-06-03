@@ -1,0 +1,54 @@
+  h1
+    {
+      word-spacing:10px;
+      text-align:center;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      background-color: gold;
+    }
+  h2
+    {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      letter-spacing:2px;
+    }  
+  p
+    {
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      text-align:justify;
+      word-spacing:4px;
+      letter-spacing:2px;
+    } 
+  a
+    {
+      text-decoration: none;
+    }  
+  .tourist
+    {
+       background-color:darkseagreen;
+    }  
+ .Chowmahalla img
+    {
+       width:45%;
+       margin-left:42px;
+       height:350px;
+    }
+    
+  .history img
+    {
+       width:65%;
+       height:380px;
+       margin-left:17%;
+    }
+  #khilwat img
+    {
+       margin-left:17%;
+       display:flex;
+       flex-wrap:wrap;
+       width:65%;
+       height:350px;
+    }
+  #museum img
+    {
+       width:33%;
+       height:325px;
+    } 
+  
